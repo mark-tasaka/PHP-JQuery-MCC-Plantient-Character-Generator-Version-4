@@ -376,9 +376,9 @@ body{
     color: white;
 }
 
-#zeroLvManimalAppearance{
+#zeroLvPlantientAppearance{
     position:absolute;
-    top: 870px;
+    top: 915px;
     left: 690px;
     font-size: 0.8em;
     width: 250px;
@@ -389,6 +389,13 @@ body{
     position:absolute;
     top: 505px;
     left: 660px;
+    font-size: 1.3em;
+}
+
+#hideInGreenery{
+    position:absolute;
+    top: 505px;
+    left: 820px;
     font-size: 1.3em;
 }
 
@@ -629,7 +636,7 @@ body{
 }
 
 
-#characterMentalMutations
+#characterPhysicalMutations2
 {
     position: absolute;
     top: 1360px;
